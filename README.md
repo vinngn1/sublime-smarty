@@ -1,4 +1,4 @@
-Sublime Text Smarty
+Sublime Text Smarty with double curly braces as custom delimeters
 ===================
 
 Syntax definition and snippets for working with [Smarty template engine][1] for PHP.
